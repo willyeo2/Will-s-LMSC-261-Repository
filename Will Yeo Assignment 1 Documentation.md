@@ -5,6 +5,7 @@
     - First, I read Paul Ford's Article.
     - Next, I created a new document in my GitHub Repository using Atom.
     - I created the outline using the "Markdown Cheatsheet" document and the edit view of the class syllabus as a reference.
+    - I uploaded the outline to my online GitHub Repository from Atom. 
 3. Problems I faced:
     - It took me a couple tries before I understood how to use the list function.
     - It took me longer than anticipated to read the full article.
