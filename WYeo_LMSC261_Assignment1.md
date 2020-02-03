@@ -13,3 +13,9 @@ II. "Let's Begin" - Explanation of How Computers Function and Industry Trends
  3. The rise of software and developers
      - As software has become untethered from hardware, developers have become more valuable and numerous.
      - Software applications are now ubiquitous and indispensable to many industries
+ 4. How coding becomes software
+ 5. Algorithms and how different languages perform them
+ 6. Developer culture
+    - Back to the story showing how programmers have changed corporate culture
+    - Tech conferences: there's a lot of them
+    - Gender gap problem in tech
