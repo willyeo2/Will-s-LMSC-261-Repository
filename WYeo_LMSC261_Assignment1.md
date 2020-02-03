@@ -41,3 +41,6 @@ II. "Let's Begin" - Explanation of How Computers Function and Industry Trends
    3. The conflict of motivations between coders and corporate executives
    4. Back to the story illustrating the conflict of motivations between coders and corporate executives
    5. The cultural differences between users of different languages   
+
+V. The Architecture of Computers  
+ 1. Decoding Programmer Conversations   
