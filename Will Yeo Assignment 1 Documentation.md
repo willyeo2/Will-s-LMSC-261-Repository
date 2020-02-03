@@ -12,4 +12,4 @@
 4. How I overcame them:
     - The markdown cheatsheet was valuable, but it took some trial and error before I realized that new lists have to begin again at "1" and can't continue from the previous number if there is other text between them.
 5. Code I used from others/elsewhere:
-  - I used Adam Pritchard's "Markdown Cheatsheet" document and the "README.md" document on the LMSC261 Class Repository as a reference.
+  - I used [Adam Pritchard's "Markdown Cheatsheet" document](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#hr) and the "README.md" document on the LMSC261 Class Repository as a reference.
