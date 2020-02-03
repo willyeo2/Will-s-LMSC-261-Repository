@@ -1,5 +1,5 @@
 ## LMSC 261 Assignment 1
-### Ford Article Markdown Outline
+### Paul Ford, "What *is* Code" Article Outline
 ### Will Yeo  
 
 I. Introduction
