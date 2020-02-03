@@ -52,4 +52,17 @@ V. The Architecture of Computers
  7. JavaScript's tenuous relationship with Java
  8. PHP
 
- VI. Applications     
+ VI. Creating Applications     
+  1. Integrated Development Environments
+  2. Software Development Kits
+  3. Debugging and Troubleshooting
+  4. Testing
+  5. Version Control
+
+VII. Conclusion
+  1. Corporate executives must balance the impatience of programmers with prudent business decisions.
+  2. Picking a Language
+  3. Programmer meetings are straightforward
+  4. Managing programmers - there's no "silver bullet"
+  5. The story concludes - programmers save the day
+  6. Should you code? The risks and Rewards
