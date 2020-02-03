@@ -43,4 +43,13 @@ II. "Let's Begin" - Explanation of How Computers Function and Industry Trends
    5. The cultural differences between users of different languages   
 
 V. The Architecture of Computers  
- 1. Decoding Programmer Conversations   
+ 1. Decoding programmer conversations
+ 2. The necessity of data management
+ 3. The value of databases
+ 4. Java and its dominance in corporations
+ 5. Microsoft
+ 6. "Liquid Infrastructure" - There are many sizes and types of software applications.
+ 7. JavaScript's tenuous relationship with Java
+ 8. PHP
+
+ VI. Applications     
