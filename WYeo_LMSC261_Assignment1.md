@@ -8,8 +8,8 @@ I. Introduction
      - Author discusses his programming background
 
 II. "Let's Begin" - Explanation of How Computers Function and Industry Trends  
- 3. Computers make basic calculations. A lot of them per second.
- 4. Seemingly simple commands from a human user are broken down into tasks by the computer.
- 5. The rise of software and developers
+ 1. Computers make basic calculations. A lot of them per second.
+ 2. Seemingly simple commands from a human user are broken down into tasks by the computer.
+ 3. The rise of software and developers
      - As software has become untethered from hardware, developers have become more valuable and numerous.
      - Software applications are now ubiquitous and indispensable to many industries
