@@ -13,7 +13,7 @@
               `if (counter % 3 = 0 && counter % 5 = 0)`
 
 This generated an "Invalid left-hand side in assignment" error in the console. I assume this is either because I failed to used parentheses around the modulo operations, or because I used a single "=" sign instead of the required 3 "===".
-4. How I Overcame Them:
+ 4. How I Overcame Them:
 - As I mentioned previously, I eventually surrendered and looked up the solution my girlfriend found on the Codeacademy forum. In fairness, however, I don't think I understood enough about "for" loops to have gotten it myself. I didn't understand how to properly nest an "if/else" statement within the loop. Even if I had, my incorrect syntax would have  kept me from doing it properly.   
 5. What Code I Used From Elsewhere/Others:
 - I found the solution on the Codeacademy.com forums. The link to the exact thread can be found [here](https://www.codecademy.com/forum_questions/4f97524f1a89c30003000a62).
