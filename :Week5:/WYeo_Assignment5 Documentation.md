@@ -10,7 +10,7 @@
 3. The Problems I Faced:
 - The "Hints" in the assignment directions threw me off on this one. I assumed early on that I would need to create a "for" loop similar to the previous assignment in order to make the counter increment. The directions stated, however, that we would "need three if/else blocks chained together", which I took to mean we should *only* use three if/else blocks chained together. Even when I used a "for" loop however, I wasn't familiar enough with the javaScript syntax (and basic math, I suppose) to set the conditions of the if/else statements properly. For example, my conditions for the if/else statement to print "FizzBuzz" read:
 
-`if (counter % 3 = 0 && counter % 5 = 0)`
+      `if (counter % 3 = 0 && counter % 5 = 0)`
 
 This generated an "Invalid left-hand side in assignment" error in the console. I assume this is either because I failed to used parentheses around the modulo operations, or because I used a single "=" sign instead of the required 3 "===".
 4. How I Overcame Them:
