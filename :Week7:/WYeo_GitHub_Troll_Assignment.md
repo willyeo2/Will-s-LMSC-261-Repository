@@ -21,7 +21,7 @@ This change was relatively straightforward. The pull requester wanted to add a k
 
 - How the collaborators communicated on the platform: The others agreed with porres and noted that a knob feature was a common request from users. Eventually, a member named "Antoine Rousseau", who appears to be a developer from metalu.net, created a pull request to incorporate metalu's knob into PD. "porres" noted some design features on the mknob that needed tweaking, and they agreed to discuss further in a later pull request.
 
-3. "[Can't input tilde ~ character":
+3. "Can't input tilde ~ character":
 
 The user "Marius Riis Haugan" found that using pureData on Windows 10 with a Norwegian keyboard layout, inputting the tilde character outputs a blank space.
 
