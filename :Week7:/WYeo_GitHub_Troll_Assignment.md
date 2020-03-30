@@ -11,7 +11,7 @@ For the past month or so, I have been monitoring Github pull request threads for
 
 - How those changes were described in comments: A collaborator named "Christof Ressi" first raised the issue of the size of the buffer on the stack. He also noted that, functionally, this shouldn't be a problem because data messages are only passed after the function returns.
 
-- How the collaborators communicated on the platform: The others on the thread gave several suggestions on how to reduce memory usage and improve the existing code to maximize buffer usage. Christof noted that memory would leak as long as the "netsend_readbin()" command was called from a different thread than the "netreceive_setup()"
+- How the collaborators communicated on the platform: The others on the thread gave several suggestions on how to reduce memory usage and improve the existing code to maximize buffer usage. Christof noted that memory would leak as long as the "netsend_readbin()" command was called from a different thread than the "netreceive_setup()". There was some debate about where to include the "netsend_readbin()" command. Another collaborator, Dan, noted that multiple instances of the command could be running in several background threads. Eventually, Christof, fixed the issue and closed the thread. 
 
 2. Add a knob GUI:
 
