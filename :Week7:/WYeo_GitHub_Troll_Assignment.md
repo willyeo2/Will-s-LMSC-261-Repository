@@ -29,10 +29,10 @@ The user "Marius Riis Haugan" found that using pureData on Windows 10 with a Nor
 
 - How the collaborators communicated on the platform: A user named "umläute" asked Marius which exact version of PD he was using. After Marius told him, "umläute" explained that this problem had been fixed in a prior release and reminded him that he should always download the latest release to make sure that the bug hadn't already been fixed.
 
-What you thought of how those changes were described in comments:
+### What I thought of how those changes were described in comments:
 
 The requests and changes in each thread read a little bit like a customer service inquiry. The first user makes a request for a change they would like to see and includes the relevant technical details. The others then reply with questions that help narrow down exactly where the issue is. The collaborators all work together find out exactly what solution makes the most sense for that particular issue.
 
-What you thought of how the collaborators communicated on the platform:
+### What I thought of how the collaborators communicated on the platform:
 
 The communications between collaborators are mostly terse and include little extraneous information other than the technical detail needed to solve the issue at hand. They have little patience for unnecessary details or requests that waste their time. In the case of the Norwegian user whose pureData version could not input a tilde symbol, the responding developer chides him for not having the most up-to-data release which had already solved the issue.
