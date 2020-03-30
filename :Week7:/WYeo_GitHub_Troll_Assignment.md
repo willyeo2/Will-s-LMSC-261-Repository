@@ -35,4 +35,4 @@ The requests and changes in each thread read a little bit like a customer servic
 
 What you thought of how the collaborators communicated on the platform:
 
-The communications between collaborators are 
+The communications between collaborators are mostly terse and include little extraneous information other than the technical detail needed to solve the issue at hand. They have little patience for unnecessary details or requests that waste their time. In the case of the Norwegian user whose pureData version could not input a tilde symbol, the responding developer chides him for not having the most up-to-data release which had already solved the issue.
