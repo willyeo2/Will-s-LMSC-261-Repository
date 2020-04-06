@@ -15,7 +15,7 @@ For my final LMSC-261 project, I want to build a personal website that serves as
 
 At Berklee, I have been so focused on building my skills and working on projects that I have neglected to market myself adequately. As of now, I have nothing online that displays the work I have created. This website should serve as an exhibition for that work and my hope is that the design reflects the creativity and effort that I put into my artistic projects.
 
-My time at Berklee has also centered around schoolwork rather than paid opportunities. I would like to build a client base and start drawing income as a freelance audio engineer, producer, and visual artist. This website should show potential clients what I can offer them and help me field inquiries.
+My time at Berklee has also centered around schoolwork rather than paid opportunities. I want to start drawing income as a freelance audio engineer, producer, and visual artist and to accomplish that, I need to begin building a client base. This website should show potential clients what I can offer them and help me field inquiries.
 
 Finally, in the immediate future, I need a job in order to pay my rent after graduation. An online resume that clearly lists my skills and experience for employers would be valuable in my job search.
 
