@@ -32,10 +32,10 @@ The intended audience for my website will consist of:
   - Hiring managers at recording studios, music producers in need of an assistant, or other potential employers researching job applicants.
 
 #### 5. Timeline
-April 6 - 13: Research HTML, CSS, javaScript, and Bootstrap for creative techniques to make the website visually appealing and effective from a messaging standpoint.
-April 13 - 20: Create site structure and content. This should include all text, graphics, images, video, audio files, hyperlinks and the workflow of pages within the site.
-April 20 - 27: Add creative design elements including CSS animations and Bootstrap graphics.
-April 27 - May 4: Test website, solicit feedback, and make adjustments as needed.
+- April 6 - 13: Research HTML, CSS, javaScript, and Bootstrap for creative techniques to make the website visually appealing and effective from a messaging standpoint
+- April 13 - 20: Create site structure and content. This should include all text, graphics, images, video, audio files, hyperlinks and the workflow of pages within the site.
+- April 20 - 27: Add creative design elements including CSS animations and Bootstrap graphics.
+- April 27 - May 4: Test website, solicit feedback, and make adjustments as needed.
 
 #### 6. How do you think you should be assessed?
 
