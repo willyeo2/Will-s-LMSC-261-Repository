@@ -13,7 +13,7 @@ For my final LMSC-261 project, I want to build a personal website that serves as
 
 #### 2. What problem does the project solve?
 
-At Berklee, I have been so focused on building my skills and working on projects that I have neglected to market myself adequately. As of now, I have nothing online that displays the work I have spent so much time creating. This website should serve as an exhibition for that work and my hope is that the design reflects the creativity and effort that I put into my artistic projects.
+At Berklee, I have been so focused on building my skills and working on projects that I have neglected to market myself adequately. As of now, I have nothing online that displays the work I have created. This website should serve as an exhibition for that work and my hope is that the design reflects the creativity and effort that I put into my artistic projects.
 
 My time at Berklee has also centered around schoolwork rather than paid opportunities. I would like to build a client base and start drawing income as a freelance audio engineer, producer, and visual artist. This website should show potential clients what I can offer them and help me field inquiries.
 
