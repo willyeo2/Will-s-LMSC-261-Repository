@@ -7,7 +7,7 @@
 
 For my final LMSC-261 project, I want to build a personal website that serves as an online springboard for my career. My website will accomplish three things:
 
-  - It should attract followers to my work as a recording and visual artist.
+  - It should help build my audience as a recording and visual artist.
   - It will advertise my skills as an audio engineer, music producer, and multimedia designer for potential clients.
   - It will act as an online resume for potential employers.
 
@@ -36,7 +36,8 @@ April 6: Complete wireframe mockup of the website.
 April 6 - 13: Research HTML, CSS, javaScript, and Bootstrap for creative techniques to make the website visually appealing and effective from a messaging standpoint.
 April 13 - 20: Create site structure and content. This should include all text, graphics, images, video, audio files, hyperlinks and the workflow of pages within the site.
 April 20 - 27: Add creative design elements including CSS animations and Bootstrap graphics.
-April 27 - May 4: Test website, solicit feedback and make adjustments as needed.
-
+April 27 - May 4: Test website, solicit feedback, and make adjustments as needed.
 
 #### 6. How do you think you should be assessed?
+
+I want to be assessed on the effectiveness of my website in achieving the goals I laid out. Would it help a listener of my music find out more about me, and direct them to my other recordings? Does it display my visual work in a way that would make a touring artist want to use one of my designs? Would it show an established producer that I possess the skill set they are looking for in an assistant? These broad goals also need to be accomplished in a clear and concise way that is visually appealing to the user.
