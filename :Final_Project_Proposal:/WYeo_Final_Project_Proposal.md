@@ -28,8 +28,12 @@ The intended audience for my website will consist of:
 
   - Followers and potential patrons of my music and visual artwork
   - People needing the services of an audio engineer, sound designer, music producer, or multimedia designer.
-  - Hiring managers at recording studios, music producers in need of an assistant, or other potential employers researching me for job opportunities. 
+  - Hiring managers at recording studios, music producers in need of an assistant, or other potential employers researching job applicants.
 
 #### 5. Timeline
+
+April 6: Complete mock-up design of the website
+April 6 - 13: Research HTML, CSS, and javaScript techniques 
+
 
 #### 6. How do you think you should be assessed?
