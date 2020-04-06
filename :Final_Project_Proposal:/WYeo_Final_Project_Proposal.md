@@ -21,7 +21,7 @@ Finally, in the immediate future, I need a job in order to pay my rent after gra
 
 #### 3. What resources will you use?
 
-In addition to the information on HTML and javaScript from our class lectures, the resources from the "Networks" lesson on our class Github page has been extremely helpful. I found the (w3chools CSS tutorial)(https://www.w3schools.com/css/default.asp) especially useful for finding design elements to incorporate into my site. I have also been taking the Codeacademy.com introductory courses on HTML and CSS to bolster my basic knowledge of each. In order to make my site more visually appealing, I have found numerous Youtube tutorials, like this one from DevTips, that explain the different creative techniques that are possible using CSS.
+In addition to the information on HTML and javaScript from our class lectures, the resources from the "Networks" lesson on our class Github page has been extremely helpful. I found the [w3chools CSS tutorial](https://www.w3schools.com/css/default.asp) especially useful for finding design elements to incorporate into my site. I have also been taking the Codeacademy.com introductory courses on HTML and CSS to bolster my basic knowledge of each. In order to make my site more visually appealing, I have found numerous Youtube tutorials, like this one from DevTips, that explain the different creative techniques that are possible using CSS.
 
 #### 4. What are the use cases?
 
