@@ -32,8 +32,11 @@ The intended audience for my website will consist of:
 
 #### 5. Timeline
 
-April 6: Complete mock-up design of the website
-April 6 - 13: Research HTML, CSS, and javaScript techniques 
+April 6: Complete wireframe mockup of the website.
+April 6 - 13: Research HTML, CSS, javaScript, and Bootstrap for creative techniques to make the website visually appealing and effective from a messaging standpoint.
+April 13 - 20: Create site structure and content. This should include all text, graphics, images, video, audio files, hyperlinks and the workflow of pages within the site.
+April 20 - 27: Add creative design elements including CSS animations and Bootstrap graphics.
+April 27 - May 4: Test website, solicit feedback and make adjustments as needed.
 
 
 #### 6. How do you think you should be assessed?
