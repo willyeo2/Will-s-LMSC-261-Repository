@@ -4,7 +4,7 @@ c = "| "
 d = "  "
 i = 0
 
-def print_line1()):
+def print_line1():
     i = 0
     print("")
     while (i < 11):
