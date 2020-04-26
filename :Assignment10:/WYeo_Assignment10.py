@@ -4,7 +4,7 @@ c = "| "
 d = "  "
 i = 0
 
-def print_rows():
+def print_horizontal):
     i = 0
     print("")
     while (i < 11):
@@ -14,7 +14,7 @@ def print_rows():
             print(b, end = '')
         i = i + 1
 
-def print_columns():
+def print_vertical():
     i = 0
     print("")
     while (i < 11):
