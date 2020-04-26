@@ -14,7 +14,7 @@ Next, I created two functions consisting of "if/else" statements nested inside o
 
 The first argument in the function sets the counter equal to zero, which is necessary because the functions themselves are iterated in a loop. The second argument contains a print statement which prints "" in order to move the cursor to the next line. Next, the "if/else" statements in the function instruct the console to print the string "+ " if the index variable modulo 5 is equal to 0 and to print "- " if it is not. The second function, "print_vertical" is structured the same, except that the strings are "| " and " " printing this pattern:
 
-                          |         |         |      
+                            |         |         |      
 
 3. The Problems I Faced:
 
