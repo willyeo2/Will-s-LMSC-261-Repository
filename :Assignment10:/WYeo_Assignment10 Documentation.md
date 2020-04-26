@@ -12,7 +12,7 @@ Next, I created two functions consisting of "if/else" statements nested inside o
 
                           + - - - - + - - - - +
 
-The first argument in the function sets the counter equal to zero, which is necessary because the functions themselves are iterated later in a loop. The second argument contains a print statement which prints "" in order to move the cursor to the next line. Next, the "if/else" statements in the function instruct the console to print the string "+ " if the index variable modulo 5 is equal to 0 and to print "- " if it is not. The second function, "print_vertical" is structured the same, except that the strings are "| " and " " printing this pattern:
+The first argument in the function sets the counter equal to zero, which is necessary because the functions themselves are iterated later in a loop. The second argument contains a print statement which prints a blank string in order to move the cursor to the next line. Next, the "if/else" statements in the function instruct the console to print the string "+ " if the index variable modulo 5 is equal to 0 and to print "- " if it is not. The second function, "print_vertical" is structured the same, except that the strings are "| " and " " printing this pattern:
 
                             |         |         |
 
@@ -22,13 +22,18 @@ After I defined both functions, I created another indexing variable, "count", se
 
 With the benefit of a few months of coding practice, my solution came together much more smoothly and without having to search Stack Overflow for help. I came up with a quicker answer in class that used longer strings that contained an entire line, i.e. "+ - - - - + - - - - +", but I figured that would be cheating. I also wondered if I should be using more function definitions, since the hints mention a solution with eight.
 
-I did have at least two hiccups. Before I created the functions, I nested the "inner" while loops that print each line directly in the "outer" while loop that iterates the lines vertically. This caused the loop to only iterate once because the index variable had not been reset to 0.
+I did have at least two hiccups. Before I created the functions, I nested the "inner" while loops that print each line directly in the "outer" while loop that prints the lines vertically. This caused the loop to only iterate once because the index variable had not been reset to 0.
 
-Once I figured that out, the other problem was that each
+Once I figured that out, the next problem was that each iteration of the "outer" loop printed on the same line, so that my console looked like this:
 
+                  + - - - - + - - - - + |         |         ||         |         ||         |         |
 
+...etc, etc.
 
 4. How I Overcame Them:
 
+By creating functions that reset the index variable to 0 after each iteration, I was able to get the "outer" while loop to iterate all 11 times and print the entire pattern. In order to move the cursor to the next line after each "inner" loop, I placed the "print("")" argument at the beginning of each function.
 
 5. What Code I Used From Elsewhere/Others:
+
+None.
