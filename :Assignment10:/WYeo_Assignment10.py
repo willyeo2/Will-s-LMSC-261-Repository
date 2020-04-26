@@ -4,7 +4,7 @@ c = "| "
 d = "  "
 i = 0
 
-def print_horizontal):
+def print_line1()):
     i = 0
     print("")
     while (i < 11):
@@ -14,7 +14,7 @@ def print_horizontal):
             print(b, end = '')
         i = i + 1
 
-def print_vertical():
+def print_line2():
     i = 0
     print("")
     while (i < 11):
@@ -28,7 +28,7 @@ count = 0
 
 while (count < 11):
 	if count % 5 == 0:
-		print_rows()
+		print_line1()
 	else:
-		print_columns()
+		print_line2()
 	count = count + 1
