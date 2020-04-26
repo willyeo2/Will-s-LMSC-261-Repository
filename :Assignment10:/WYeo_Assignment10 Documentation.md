@@ -4,9 +4,11 @@
 ### April 26, 2020
 
 1. What I Did:
+
 Our assignment this week was to complete the "Foursquare" assignment which involved printing a pattern with four squares using a Python Script. I completed the problem using a combination of loops, "if/else" statements and the python functions we learned about in class two weeks ago.
 
 2. How I Did It:
+
 First, I defined five variables. Four of them are strings that represent each of the characters in the pattern ("+ ","- ","| ", and " " ) and one is an indexing variable for the "while" loops in each function.
 Next, I created two functions consisting of "if/else" statements nested inside of a "while" loop that iterate up to 11. The first function, "print_line1" printed the horizontal lines with this pattern:
 
