@@ -20,6 +20,13 @@ After I defined both functions, I created another indexing variable, "count", se
 
 3. The Problems I Faced:
 
+With the benefit of a few months of coding practice, my solution came together much more smoothly and without having to search Stack Overflow for help. I came up with a quicker answer in class that used longer strings that contained an entire line, i.e. "+ - - - - + - - - - +", but I figured that would be cheating. I also wondered if I should be using more function definitions, since the hints mention a solution with eight.
+
+I did have at least two hiccups. Before I created the functions, I nested the "inner" while loops that print each line directly in the "outer" while loop that iterates the lines vertically. This caused the loop to only iterate once because the index variable had not been reset to 0.
+
+Once I figured that out, the other problem was that each
+
+
 
 4. How I Overcame Them:
 
