@@ -9,10 +9,8 @@
 2. How I Did It:
 - I completed the problem by creating two functions consisting of "if/else" statements nested inside of a "while" loop. The first function, "print_horizontal" printed the horizontal lines with this pattern:
 
-              <pre>
                           + - - - - + - - - - +
-              <pre>
-
+              
 3. The Problems I Faced:
 
 
