@@ -16,9 +16,11 @@ Once I downloaded the template, I spent time making sure I had all the proper gr
 
 In the index.html file I included a "video" tag in the "video-container" div of the main page. I set the source tag equal to the file location of the video and copied the file into the project folder of my site. Next, I uploaded the jpg and png images that I selected in each of my website sections. In the "music" section, I got rid of the template graphics and embedded links to my Soundcloud page (which is also in dire need of updating).
 
-
 3. The Problems I Faced:
 
+The main problem I faced was the time crunch due to the heavy workload required by my 491 class. Consequently, I wasn't able to get all aspects of my site functional. For example, I haven't yet figured out how to get the contact section to work. I also plan to get a domain for my site and take it off of my GitHub page.
+
+A lot of my time was spent getting the graphics to look right using the style sheets, which I felt was important for a creative website. One image I had trouble with was the background on the  
 
 4. How I Overcame Them:
 
