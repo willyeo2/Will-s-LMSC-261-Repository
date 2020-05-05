@@ -12,7 +12,7 @@ https://willyeo2.github.io/
 
 2. How I Did It:
 
-After taking a couple Codeacademy classes on HTML, CSS and Bootstrap, I broke down and went searching for templates that were similar to what I was looking for. I combined elements of a few different designs, but I found one called "Highway", located [here](https://templatemo.com/tm-520-highway) that had a looping video on the landing page. I also practiced experimenting with the CSS templates on the W3schools.com tutorial site in order to become more familiar with CSS syntax and selectors.
+After taking a couple of Codeacademy classes on HTML, CSS and Bootstrap, I broke down and went searching for templates that were similar to what I was looking for. I combined elements of a few different designs, but I found one called "Highway", located [here](https://templatemo.com/tm-520-highway) that had a looping video on the landing page. I also practiced experimenting with the CSS templates on the W3schools.com tutorial site in order to become more familiar with CSS syntax and selectors.
 
 Once I downloaded the template, I spent time making sure I had all the proper graphics I wanted to import into my site. I wanted a main landing page, a page with my music embedded and a page with information about my engineering services, so I searched for photos and videos that I thought fit each category. Using video from my 491 project, a trip to Real World Studios in England and a music festival I worked at, I edited together the video in the background of the "home" page and the "music" page using Adobe Premier.
 
