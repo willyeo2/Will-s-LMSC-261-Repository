@@ -28,4 +28,4 @@ I am committed to keep improving my website as time permits. I especially intend
 
 5. What Code I Used From Elsewhere/Others:
 
-In addition to the template I downloaded from
+In addition to the template I downloaded from https://templatemo.com/tm-520-highway. I also used many of the design elements that I found in the ["Art" Template](https://www.w3schools.com/w3css/tryw3css_templates_streetart.htm) on the W3 Schools CSS page. I also
