@@ -10,7 +10,11 @@ From my capstone Electronic Production and Design project, I had also accumulate
 
 2. How I Did It:
 
-After taking a couple Codeacademy classes on HTML, CSS and Bootstrap, I broke down and went searching for templates that were similar to what I was looking for. I combined elements of a few different designs, but I found a nice one called "Highway", located here <https://templatemo.com/tm-520-highway> that showed how to place a looping video on the front page. 
+After taking a couple Codeacademy classes on HTML, CSS and Bootstrap, I broke down and went searching for templates that were similar to what I was looking for. I combined elements of a few different designs, but I found one called "Highway", located [here] (https://templatemo.com/tm-520-highway) that had a looping video on the landing page. I also practiced experimenting with the CSS templates on the W3schools.com tutorial site in order to become more familiar with CSS syntax and selectors.
+
+Once I downloaded the template, I spent time making sure I had all the proper graphics I wanted to import into my site. I wanted a main landing page, a page with my music and a page with information about my engineering services, so I searched for photos and videos that I thought fit each category. Using video from my 491 project, a trip to Real World Studios in England and a music festival I worked at, I edited together the video in the background of the "home" page and the "music" page using Adobe Premier.
+
+In the index.html file I included a "video" tag in the "video-container" div of the main page. I set the source tag equal to the file location of the video and copied the file into the project folder of my site. 
 
 
 3. The Problems I Faced:
