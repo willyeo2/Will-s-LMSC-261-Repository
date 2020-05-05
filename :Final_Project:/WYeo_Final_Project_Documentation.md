@@ -24,7 +24,8 @@ A lot of my time was spent getting the graphics to look right using the style sh
 
 4. How I Overcame Them:
 
-I am committed to keep improving my website as time permits. I especially intend to make the contact form functional in order to make it useful professionally.  
-
+I am committed to keep improving my website as time permits. I especially intend to make the contact form functional in order to make it useful professionally. The image placement issue was solved by searching for the existing image in the various CSS files. Once I found the image I swapped it out with the new one.
 
 5. What Code I Used From Elsewhere/Others:
+
+I 
