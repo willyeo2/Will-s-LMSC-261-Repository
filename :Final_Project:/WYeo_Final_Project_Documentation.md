@@ -24,7 +24,7 @@ A lot of my time was spent getting the graphics to look right using the style sh
 
 4. How I Overcame Them:
 
-
+I am committed to keep improving my website as time permits. I especially intend to make the contact form functional in order 
 
 
 5. What Code I Used From Elsewhere/Others:
