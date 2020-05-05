@@ -14,7 +14,7 @@ After taking a couple Codeacademy classes on HTML, CSS and Bootstrap, I broke do
 
 Once I downloaded the template, I spent time making sure I had all the proper graphics I wanted to import into my site. I wanted a main landing page, a page with my music and a page with information about my engineering services, so I searched for photos and videos that I thought fit each category. Using video from my 491 project, a trip to Real World Studios in England and a music festival I worked at, I edited together the video in the background of the "home" page and the "music" page using Adobe Premier.
 
-In the index.html file I included a "video" tag in the "video-container" div of the main page. I set the source tag equal to the file location of the video and copied the file into the project folder of my site. 
+In the index.html file I included a "video" tag in the "video-container" div of the main page. I set the source tag equal to the file location of the video and copied the file into the project folder of my site. Next, I uploaded the jpg and png images that I selected in each of my website sections. In the "music" section, I got rid of the template graphics and embedded links to my Soundcloud page (which is also in dire need of updating).
 
 
 3. The Problems I Faced:
