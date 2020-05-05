@@ -20,9 +20,11 @@ In the index.html file I included a "video" tag in the "video-container" div of 
 
 The main problem I faced was the time crunch due to the heavy workload required by my 491 class. Consequently, I wasn't able to get all aspects of my site functional. For example, I haven't yet figured out how to get the contact section to work. I also plan to get a domain for my site and take it off of my GitHub page.
 
-A lot of my time was spent getting the graphics to look right using the style sheets, which I felt was important for a creative website. One image I had trouble with was the background on the  
+A lot of my time was spent getting the graphics to look right using the style sheets, which I felt was important for a creative website. One image I had trouble with was the background on the "engineering" page. I imported a new image of myself at a piano but found no "image" tag for it in the HTML file.
 
 4. How I Overcame Them:
+
+
 
 
 5. What Code I Used From Elsewhere/Others:
